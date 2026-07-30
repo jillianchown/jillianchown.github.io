@@ -8,8 +8,7 @@ redirect_from:
 ---
 ---
 <a href="/files/cv.pdf" class="btn btn--primary">Download CV</a>
----
----
+
 
 I study expert work and how organizations structure and govern it. My research examines how organizations shape work that depends on specialized knowledge and judgment, and how experts and managers reshape those arrangements in practice.
 
