@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "headshot.jpg"
   name             : "Jillian Chown"
-  pronouns         : "she/her"  
+  pronouns         : ""  
   bio              : "I study how organizations structure and govern expert work, mostly in healthcare."
   location         : "Evanston, IL"
   employer         : "Northwestern University"
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
