@@ -8,6 +8,5 @@ redirect_from:
 ---
 ---
 <a href="/files/cv.pdf" class="btn btn--primary">Download CV</a>
----
----
+
 
