@@ -1,6 +1,12 @@
 ---
 permalink: /
-title: "Jillian Chown
+title: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 
 Jillian Chown is an Associate Professor of Management and Organizations at the Kellogg School of Management. She studies expert work and how organizations structure and govern it. Her research examines how organizations shape work that depends on specialized knowledge and judgment, and how experts and managers reshape those arrangements in practice.
 
